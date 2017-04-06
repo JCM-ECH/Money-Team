@@ -241,4 +241,6 @@ tr:nth-child(odd) {
 caption {
   color: green;
   font-size: 1.75em;
+  text-align: center;
+  bottom: 1%;
 }
