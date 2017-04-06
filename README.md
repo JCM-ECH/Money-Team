@@ -7,5 +7,6 @@
 
 1. If there was one thing I could change about coding class, I would allow more time to work in treehouse before starting website.
 2. Our website is a sports page for Early College High. It gives schedules, rosters, and updated information.
-3. Our client is mainly the students and faculty of Early College. Making our page responsive was a very challenging task. Most of our pictures and tables overlapped when taking a mobile approach. Creating the page was very fun and was definitely a task I would repeat.
+3. Our client is mainly the students and faculty of Early College. Making our page responsive was a very challenging task. Most of our pictures and tables overlapped when taking a mobile approach. Creating the page was very fun and was definitely a task I would repeat. I wouldn't mind creating another website.
+  
 -Daijon Jones
